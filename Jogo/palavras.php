@@ -52,7 +52,7 @@ include 'ArrayJogoPalavras.php';
         <div class="card" style="width: 18rem; color: black; margin: 0 auto;margin-top: 10em;">
           <div class="card-body">
             <h5 class="card-title" style="color:#000;" >Responda</h5>
-            <p class="card-text" style="color:#212529;" >Qual letra está sendo representada na imagem ao lado?</p>
+            <p class="card-text" style="color:#212529;" >Qual palavra está sendo representada na imagem ao lado?</p>
             
 <?php
 
